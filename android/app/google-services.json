@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "612378009178",
+    "project_id": "smart-cal-user-app-1yo0ab",
+    "storage_bucket": "smart-cal-user-app-1yo0ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612378009178:android:5fa8271f6f418a23058263",
+        "android_client_info": {
+          "package_name": "com.mycompany.smartcal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612378009178-i2vapk36old5vco81s7380g7rio3tgbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.smartcal",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "612378009178-d36110l6ambd13njg0fmjt80242sd48j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdQ7LJW8cvfo1Zpns6Y6hxbFu1jUlNvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612378009178-d36110l6ambd13njg0fmjt80242sd48j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612378009178-5vqq8v4t8iob9vvbnoh97t2dvi3a4lvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.smartcal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612378009178:android:35cec9b75a00257a058263",
+        "android_client_info": {
+          "package_name": "com.mycompany.smartcaladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612378009178-f0fup1pe34f1mlsp0du7sroch2umauv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.smartcaladmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "612378009178-d36110l6ambd13njg0fmjt80242sd48j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdQ7LJW8cvfo1Zpns6Y6hxbFu1jUlNvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612378009178-d36110l6ambd13njg0fmjt80242sd48j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612378009178-5vqq8v4t8iob9vvbnoh97t2dvi3a4lvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.smartcal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
